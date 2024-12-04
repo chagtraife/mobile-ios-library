@@ -40,7 +40,7 @@ extension Client {
     /// Encapsulates internal and public parameters of the client. When not specified otherwise, time intervals are in milliseconds.
     public final class Configuration {
 
-        static let teamId = "5357M5NW9W"
+        static let teamId = "6FSR2W2VH6"
         
         static let teamIdentifierCSI = "pia_ios"
         

@@ -44,7 +44,7 @@ extension Client {
         
         static let teamIdentifierCSI = "pia_ios"
         
-        static let appGroup = "group.com.privateinternetaccess"
+        static let appGroup = "group.org.herond.browser.dev.unique"
 
         static let debugLogKey = "LastVPNLog"
         
